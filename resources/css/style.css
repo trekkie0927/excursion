@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+a{
+    color:aquamarine;
+    font-size: 16px;
+}
+
+h2{
+    font-weight: 300px;
+    font-size: 42px;
+    color: white;
+}
+
+.tagquote{
+    font-size: 21px;
+    color:grey;
+}
+
+.footer{
+    font-size: 21px;
+    text-align: right;
+    color: grey;
+}
